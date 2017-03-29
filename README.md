@@ -1,2 +1,2 @@
 # SAP_DoS
-Here you can found DoS exploits to SAP products 
+Here you can found DoS exploits for SAP products
