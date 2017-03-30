@@ -1,5 +1,4 @@
 # SAP_DoS
-Here you can found DoS exploits for SAP products
 ```
 CVE-2015-2819     SYBASE SQL ANYWHERE
 CVE-2015-2820     SAP AFARIA 7 XCLISTENER
